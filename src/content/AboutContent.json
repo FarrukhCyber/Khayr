@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "What do we have in store for students?",
+  "text": "Khayr helps children in improving their discipline issues by the betterment of their behaviour. This is achieved through the relaxation features which improve the mood of the students.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Games",
+      "content": "The games feature provides fun, digitally stimulating activities to students which is an efficient tool to vent out negative energy and the rewards earned in the games makes the students happy and motives them to do well.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Learn",
+      "content": "The learn feature offers a variety of learning opportunities for children where they can choose to learn music and arts. Once the students have learned the selected activity, they will gain points of participation.",
       "icon": "notes.svg"
     }
   ]

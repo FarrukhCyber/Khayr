@@ -1,6 +1,6 @@
 {
-    "title": "Introduce your product quickly & effectively",
-    "text": "Landy comes with multi-lingual support, all of the content is stored in the JSON files, so that you can manage the texts without having any prior knowledge in developing web applications using React.js.",
-    "button": "Get started"
+    "title": "Student Behaviour Management",
+    "text": "Our core feature, student behaviour management, allows teachers to record the daily behaviour of their students and they can view the summary through behaviour tracker. The behaviour tracker will show a visual graphical representation of the student behaviours over the period of time. It enables the teacher to evaluate whether he/she has to bring changes in their way of handling the children or is there a need to introduce new activities to help promote positive behaviour attitudes."
+    
   }
   

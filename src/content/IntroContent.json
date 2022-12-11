@@ -1,13 +1,10 @@
 {
   "title": "Welcome to Khayr",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "text": "Khayr provides a one stop solution for both students and teachers. For students it helps them deal with their anger issues and emotion regulation and helps make learning more fun and engaging. For teachers it helps them keep a track of the student's emotion journey and provides tools for effective class management.",
   "button": [
     {
       "title": "Explore"
-    },
-    {
-      "title": "Learn more",
-      "color": "#fff"
     }
+    
   ]
 }
