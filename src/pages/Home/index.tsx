@@ -48,6 +48,7 @@ const Home = () => {
         type="left"
         title={ProductContent.title}
         content={ProductContent.text}
+        button= {ProductContent.button}
         icon="waving.svg"
         id="product"
       />

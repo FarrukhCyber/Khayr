@@ -3,15 +3,16 @@ import { withTranslation } from "react-i18next";
 import { SvgIcon } from "../../../common/SvgIcon";
 import { ContentBlockProps } from "../types";
 import { Fade } from "react-awesome-reveal";
+import { Button } from "../../../common/Button";
 import {
   LeftContentSection,
   Content,
   ContentWrapper,
   ServiceWrapper,
-  MinTitle,
+    MinTitle,
   MinPara,
 } from "./styles";
-
+const figmaLink = `https://www.figma.com/file/VV3ddVkxAa7xZVYCXIVBrc/Khayr?node-id=161%3A837&t=mm8yHCcuQ8j69FLU-1`;
 const LeftContentBlock = ({
   icon,
   title,
@@ -46,7 +47,13 @@ const LeftContentBlock = ({
                 </Row>
               </ServiceWrapper>
             </ContentWrapper>
+              <a href={figmaLink}>
+            <Button>
+              Figma
+            </Button>
+              </a>
           </Col>
+          
         </Row>
       </Fade>
     </LeftContentSection>

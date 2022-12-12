@@ -1,4 +1,9 @@
 {
   "title": "That's about it!",
-  "text": "We presented Khayr, a desktop application that offers emotion regulation for students through various activities like music, breathing, games and videos for 10-16 years old illiterate students who have entered their teenage years without attending school. From a teacher, it offers tracking of student activities and behaviour, training and reading new features."
+  "text": "We presented Khayr, a desktop application that offers emotion regulation for students through various activities like music, breathing, games and videos for 10-16 years old illiterate students who have entered their teenage years without attending school. From a teacher, it offers tracking of student activities and behaviour, training and reading new features. Check the figma here!",
+  "button":[
+    {
+      "title": "Figma"
+    }
+  ]
 }
